@@ -14,3 +14,20 @@ Through a clear GUI it's possible to:
 Developed with @latios93.
 
 See some screenshots!
+
+## Edge detection
+![Edge detection](screenshots/edge_detection.PNG)
+
+## Gaussian Noise
+### Application
+![Gaussian Noise Application](screenshots/gaussian_noise.PNG)
+
+### Reduction
+![Gaussian Noise Reduction](screenshots/gaussian_noise_reduction.PNG)
+
+## Impulse Noise
+### Application
+![Impulse Noise Application](screenshots/impulse_noise.PNG)
+
+### Reduction
+![Impulse Noise Reduction](screenshots/impulse_noise_reduction.PNG)
